@@ -7,3 +7,5 @@ git branch (выдаст название всех веток)
 git reset
 git diff
 git reset --hard
+git pull [rep_link] [branch_name] (git pull origin master)
+git merge
